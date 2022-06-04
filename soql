@@ -1,0 +1,1 @@
+Select Id From Account Where HOUR_IN_DAY(LastModifiedDate) > 1
